@@ -18,4 +18,8 @@
 </p>
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312cstos2wktsyt56ellv7wbjvau&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312cstos2wktsyt56ellv7wbjvau&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color_cover=true">
+  </a>
+</p>
