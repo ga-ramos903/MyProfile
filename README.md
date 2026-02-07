@@ -11,7 +11,7 @@
 * ⚡ Fun fact: whart da FAK
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/MSlshZS6CVYAAAAC/satoru-gojo---correndo.gif"/>
+  <img src="https://media.tenor.com/7AaXCHLXlzIAAAAi/jojo.gif"/>
 </p>
 <p align="center">
   <img src="https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif"/>
