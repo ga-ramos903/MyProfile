@@ -11,5 +11,4 @@
 * ⚡ Fun fact: whart da FAK
 
 
-<img src = <div class="tenor-gif-embed" data-postid="19840038" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/caught-in-4k-caught-in4k-chungus-gif-19840038">Caught In GIF</a>from <a href="https://tenor.com/search/caught-gifs">Caught GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
- >
+<img src = <div class="tenor-gif-embed" data-postid="11098413" data-share-method="host" data-aspect-ratio="1.07143" data-width="100%"><a href="https://tenor.com/view/homer-brain-monkey-gif-11098413">Homer Brain GIF</a>from <a href="https://tenor.com/search/homer-gifs">Homer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
