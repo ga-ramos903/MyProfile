@@ -8,7 +8,7 @@
 * 💬 Ask me about: My self
 * 📫 How to reach me: Facebook
 * ❤️ I love Mobile Legends
-* ⚡ Fun fact: C===3
+* ⚡ Fun fact: whart da FAK
 
 
 <img src = <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ba8ce040-bd75-4731-81c4-c7e4668db2c0" />
