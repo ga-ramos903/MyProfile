@@ -16,3 +16,4 @@
 <p align="center">
   <img src="https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif"/>
 </p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312cstos2wktsyt56ellv7wbjvau&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
