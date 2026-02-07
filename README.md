@@ -13,3 +13,6 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/MSlshZS6CVYAAAAC/satoru-gojo---correndo.gif"/>
 </p>
+<p align="center">
+  <img src="https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif"/>
+</p>
