@@ -10,5 +10,6 @@
 * ❤️ I love Mobile Legends
 * ⚡ Fun fact: whart da FAK
 
-
-<img src = <div class="tenor-gif-embed" data-postid="11098413" data-share-method="host" data-aspect-ratio="1.07143" data-width="100%"><a href="https://tenor.com/view/homer-brain-monkey-gif-11098413">Homer Brain GIF</a>from <a href="https://tenor.com/search/homer-gifs">Homer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://media1.tenor.com/m/MSlshZS6CVYAAAAC/satoru-gojo---correndo.gif"/>
+</p>
