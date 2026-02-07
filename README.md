@@ -11,5 +11,5 @@
 * ⚡ Fun fact: whart da FAK
 
 
-<img src = <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ba8ce040-bd75-4731-81c4-c7e4668db2c0" />
+<img src = <div class="tenor-gif-embed" data-postid="19840038" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/caught-in-4k-caught-in4k-chungus-gif-19840038">Caught In GIF</a>from <a href="https://tenor.com/search/caught-gifs">Caught GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
  >
